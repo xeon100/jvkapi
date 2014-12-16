@@ -15,7 +15,7 @@ public class Main {
 //        int id = 104797527;
 
 
-        //Тест на макс. кол-во подключений к вк апи
+        //Тест на макс. кол-во подключений к вк ап
         int i = 0;
         while(true){
             HashMap<String, Object> parameters = new HashMap<String, Object>();
